@@ -137,7 +137,7 @@ water-scarcity-analysis/
 ### 1 — Clone the repository
 
 ```bash
-git clone https://github.com/mtk339900/water-scarcity-analysis.git
+git clone https://github.com/mtk339900/water_scarcity_repo
 cd water-scarcity-analysis
 ```
 
